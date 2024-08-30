@@ -2,6 +2,11 @@
 
 This is a simple web application that allows users to remove the background from an image. The application is built using Streamlit and the `rembg` library.
 
+![Capture Image](https://github.com/Himanshu-Vishwakarma-GH/Background-Remover-Python/blob/main/Capture.PNG)
+
+
+
+
 ## Features
 
 - Upload an image to remove the background
